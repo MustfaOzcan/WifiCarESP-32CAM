@@ -17,3 +17,11 @@ IoT project
 <h4>
   ESP32-CAM, Espressif'in geliştirdiği bir IoT (Nesnelerin İnterneti) cihazıdır. Özellikle kamera özelliğiyle dikkat çeker ve ESP32 mikrodenetleyici ile bir kamerayı birleştirir. İşlevselliği ve küçük boyutu sayesinde projemizde fazla yer kaplamaz. Projemizde motor arabanın önünde konumlanmış olup görüntüleri bir web sayfasında yayınlar ayrıca motor kontrol kartıyla haberleşir yine web sayfasındaki buton arayüzleri sayesinde arabanın hareketleri tayin edilir. </h4>
 
+  <h1> Sürüş Videosu </h1>
+
+  
+
+
+https://github.com/MustfaOzcan/WifiCarESP-32CAM/assets/103693735/946962c5-c2d4-4907-8daa-e2f5e7d0f38c
+
+
